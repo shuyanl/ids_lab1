@@ -1,0 +1,1 @@
+This is the first file on the main branch. echo command is an easy way to create a text file via terminal. So is doing vim main_file1
